@@ -1,0 +1,6 @@
+[submodule "mip-front"]
+	path = mip-front
+	url = https://github.com/caieradev/mip-front
+[submodule "mip-migrations"]
+	path = mip-migrations
+	url = https://github.com/caieradev/mip-migrations
